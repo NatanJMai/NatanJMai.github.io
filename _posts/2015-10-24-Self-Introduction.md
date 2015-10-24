@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Semana Acadêmica e Latinoware!
+title: Sobre mim!
 ---
 
 Esse post é apenas uma rápida auto introdução.
@@ -24,7 +24,7 @@ Estudo por conta algumas linguagens de programação, mas acredito que sou inici
 - C (Mais para a faculdade quando necessário)
 - Progress 4GL (Profissionalmente)
 - Scala (Comecei a criar um interpretador, mas não terminei)
-- ~~Java~~ (Pior coisa que fiz foi criar um app para Android, sério)
+- !Java (Pior coisa que fiz foi criar um app para Android, sério)
 - Qualquer outra que me chame a atenção.
 
 Gosto bastante de programação funcional, acredito em que algum futuro não tão distante, as características funcionais serão coisas básicas para qualquer programador  / estudante.
