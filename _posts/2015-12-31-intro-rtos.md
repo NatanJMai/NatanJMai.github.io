@@ -3,7 +3,6 @@ layout: post
 title: RTOS
 ---
 
-*O que é um sistema de tempo real?*
 Uma rápida introdução sobre sistemas operacionais de tempo real (real-time operating systems).
 
 **1.** O que é
