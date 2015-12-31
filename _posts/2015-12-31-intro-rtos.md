@@ -2,8 +2,8 @@
 Uma rápida introdução sobre sistemas operacionais de tempo real (real-time operating systems) 
 
 **1.** O que é.
-**2.** Escalonamento.
-**3.** Comunicação entre processos (IPC).
+**2.** Escalonamento
+**3.** Comunicação entre processos (IPC)
 
 -----------------
 
